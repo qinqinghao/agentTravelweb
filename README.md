@@ -9,7 +9,7 @@
 3.  mysql
 
 
-#### 安装教程
+#### 安装教程(具体内容于toGitHub.zip内或关联https://gitee.com/qqh2310904/agentTravelweb?source=header_my_projects)
 
 1.  直接下载项目文件包，pycharm或vscode打开
 
